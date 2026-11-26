@@ -1,5 +1,5 @@
 
-# Terraform Portfolio
+# Terraform Projects
 
 A collection of Infrastructure as Code (IaC) projects built using Terraform, initially focused on AWS cloud infrastructure.
 
@@ -11,10 +11,10 @@ Projects are organized into separate directories, each representing an independe
 
 ```text
 terraform/
-|-- 01-aws-high-availability-web-infrastructure/
-|-- 02-aws-static-website-hosting/
-|-- 03-aws-container-cicd-pipeline/
-|-- 04-aws-serverless-event-driven-app/
+|-- aws-high-availability-web-infrastructure/
+|-- aws-static-website-hosting/ (TODO)
+|-- aws-container-cicd-pipeline/ (TODO)
+|-- aws-serverless-event-driven-app/ (TODO)
 |-- README.md
 ```
 
